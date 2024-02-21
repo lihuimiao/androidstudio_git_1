@@ -14,5 +14,6 @@ public class LoginActivity extends AppCompatActivity {
         System.out.println("床前明月光,疑是地上霜,举头望明月,低头思故乡");
         Toast.makeText(this,"哈哈,真好玩",Toast.LENGTH_LONG).show();
         System.out.println("现在是在dev分支中进行开发.....1111111");
+        System.out.println("测试 clone ,clone dev分支的源码....");
     }
 }
