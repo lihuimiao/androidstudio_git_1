@@ -10,5 +10,6 @@ public class LoginActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login);
+        System.out.println("床前明月光,疑是地上霜,举头望明月,低头思故乡");
     }
 }
