@@ -7,6 +7,12 @@
 /.idea/workspace.xml
 /.idea/navEditor.xml
 /.idea/assetWizardSettings.xml
+#lee 添加 start
+/.idea/vcs.xml
+/.idea/kotlinc.xml
+/.idea/deploymentTargetDropDown.xml
+/.idea/compiler.xml
+#lee 添加 end
 .DS_Store
 /build
 /captures
